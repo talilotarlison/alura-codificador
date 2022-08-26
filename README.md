@@ -12,10 +12,10 @@
 </div>
 
 
-# alura-codificador
+## alura-codificador
 
 ## 🏷️ detalhes do projeto
 
-## 🥇 Codificador e decodificador de texto, alura , referênte ao projeto ONE.! 
-## ✅ Projeto feito no curso da alura. Na trilha iníciante de progamacao. 
-## ⬆️ Projeto ( Desafio 01 - decodificador e decodificador feito com  css , html e js. )
+### 🥇 Codificador e decodificador de texto, alura , referênte ao projeto ONE.! 
+### ✅ Projeto feito no curso da alura. Na trilha iníciante de progamacao. 
+### ⬆️ Projeto ( Desafio 01 - decodificador e decodificador feito com  css , html e js. )
