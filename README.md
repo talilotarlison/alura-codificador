@@ -19,3 +19,9 @@
 ### 🥇 Codificador e decodificador de texto, alura , referênte ao projeto ONE.! 
 ### ✅ Projeto feito no curso da alura. Na trilha iníciante de progamacao. 
 ### ⬆️ Projeto ( Desafio 01 - decodificador e decodificador feito com  css , html e js. )
+
+---
+
+<p align="center" >
+     <img width="600" heigth="600" src="https://github.com/talilotarlison/alura-codificador/blob/main/projeto_decodificador.jpg?raw=true">
+</p>
