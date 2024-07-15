@@ -11,17 +11,20 @@
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+## Projeto Alura Codificador:
 
-## alura-codificador
-
-## 🏷️ detalhes do projeto
+### 🏷️ Detalhes do projeto
 
 ### 🥇 Codificador e decodificador de texto, alura , referênte ao projeto ONE.! 
 ### ✅ Projeto feito no curso da alura. Na trilha iníciante de progamacao. 
 ### ⬆️ Projeto ( Desafio 01 - decodificador e decodificador feito com  css , html e js. )
 
+
 ---
 
-<p align="center" >
+<div align="center" >
      <img width="600" heigth="600" src="https://github.com/talilotarlison/alura-codificador/blob/main/projeto_decodificador.jpg?raw=true">
-</p>
+</div>
+ <div align="center">
+      <a href="https://www.alura.com.br/challenges/challenge-one-logica/sprint01-construa-decodificador-texto-com-javascript">Alura Challenge ONE </a>
+ </div>  
